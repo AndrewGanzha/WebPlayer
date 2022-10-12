@@ -1,2 +1,2 @@
-# WebPlayer
+# Web Player
 Simple WebPlayer
